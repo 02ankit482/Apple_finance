@@ -123,7 +123,7 @@ def cmd_ask(question: str) -> None:
     _print_answer(question, answer)
 
 
-def cmd_server(host: str = "0.0.0.0", port: int = 8000, reload: bool = False) -> None:
+def cmd_server(host: str = "127.0.0.1", port: int = 8000, reload: bool = False) -> None:
     """Start the FastAPI server with uvicorn."""
     _check_env()
     try:

@@ -24,6 +24,9 @@ from contextlib import asynccontextmanager
 from typing import AsyncGenerator
 
 from fastapi import FastAPI, HTTPException, Request
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
+import os
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from dotenv import load_dotenv
@@ -72,6 +75,18 @@ app = FastAPI(
     version="1.0.0",
     lifespan=lifespan,
 )
+
+# Serve the UI
+_UI_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'ui')
+if os.path.exists(_UI_DIR):
+    app.mount('/ui', StaticFiles(directory=_UI_DIR), name='ui')
+
+@app.get('/', include_in_schema=False)
+async def serve_ui():
+    index = os.path.join(_UI_DIR, 'index.html')
+    if os.path.exists(index):
+        return FileResponse(index)
+    return {'message': 'Apple Financial Intelligence Agent API', 'docs': '/docs'}
 
 app.add_middleware(
     CORSMiddleware,
