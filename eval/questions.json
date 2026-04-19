@@ -1,0 +1,129 @@
+[
+  {
+    "id": "biz_001",
+    "question": "What does Apple describe as its primary business and main product lines?",
+    "expected_route": "vectorstore",
+    "expected_section": "item_1",
+    "required_keywords": ["iPhone", "Mac", "iPad", "Services", "Wearables"],
+    "category": "business_description"
+  },
+  {
+    "id": "biz_002",
+    "question": "How does Apple describe its competitive advantages in its 10-K?",
+    "expected_route": "vectorstore",
+    "expected_section": "item_1",
+    "required_keywords": ["ecosystem", "brand", "innovation"],
+    "category": "business_description"
+  },
+  {
+    "id": "risk_001",
+    "question": "What supply chain risks did Apple disclose in its most recent 10-K?",
+    "expected_route": "vectorstore",
+    "expected_section": "item_1a",
+    "required_keywords": ["supplier", "supply", "concentration", "geopolitical"],
+    "category": "risk_factors"
+  },
+  {
+    "id": "risk_002",
+    "question": "What cybersecurity and data privacy risks did Apple flag in its risk factors?",
+    "expected_route": "vectorstore",
+    "expected_section": "item_1a",
+    "required_keywords": ["data", "privacy", "security", "breach"],
+    "category": "risk_factors"
+  },
+  {
+    "id": "fin_001",
+    "question": "What was Apple's total net revenue for fiscal year 2023?",
+    "expected_route": "vectorstore",
+    "expected_section": "item_7",
+    "required_keywords": ["383", "billion", "revenue", "net sales"],
+    "category": "financials"
+  },
+  {
+    "id": "fin_002",
+    "question": "How did Apple's gross margin change between FY2022 and FY2023?",
+    "expected_route": "vectorstore",
+    "expected_section": "item_7",
+    "required_keywords": ["gross margin", "margin", "percent"],
+    "category": "financials"
+  },
+  {
+    "id": "fin_003",
+    "question": "What was Apple's net income in FY2023?",
+    "expected_route": "vectorstore",
+    "expected_section": "item_7",
+    "required_keywords": ["96", "net income", "billion"],
+    "category": "financials"
+  },
+  {
+    "id": "seg_001",
+    "question": "How did iPhone revenue compare to Services revenue in Apple's latest 10-K?",
+    "expected_route": "vectorstore",
+    "expected_section": "item_7",
+    "required_keywords": ["iPhone", "Services", "revenue", "billion"],
+    "category": "segment_analysis"
+  },
+  {
+    "id": "seg_002",
+    "question": "Which geographic region contributed the most revenue for Apple?",
+    "expected_route": "vectorstore",
+    "expected_section": "item_7",
+    "required_keywords": ["Americas", "Greater China", "Europe", "revenue"],
+    "category": "segment_analysis"
+  },
+  {
+    "id": "mda_001",
+    "question": "How did Apple explain the decline in Mac revenue in its MD&A?",
+    "expected_route": "vectorstore",
+    "expected_section": "item_7",
+    "required_keywords": ["Mac", "decline", "demand", "PC"],
+    "category": "mda"
+  },
+  {
+    "id": "mda_002",
+    "question": "What factors did Apple management cite for Services growth?",
+    "expected_route": "vectorstore",
+    "expected_section": "item_7",
+    "required_keywords": ["Services", "growth", "subscription", "App Store"],
+    "category": "mda"
+  },
+  {
+    "id": "math_001",
+    "question": "Calculate the year-over-year growth in Apple's total revenue from FY2022 ($394.3B) to FY2023 ($383.3B)",
+    "expected_route": "vectorstore",
+    "expected_section": "item_7",
+    "required_keywords": ["-2.8", "decline", "percent"],
+    "expected_calculation": true,
+    "category": "math"
+  },
+  {
+    "id": "math_002",
+    "question": "If Apple's iPhone revenue was $205.5B out of $383.3B total, what percentage of revenue does iPhone represent?",
+    "expected_route": "vectorstore",
+    "expected_section": "item_7",
+    "required_keywords": ["53", "percent", "iPhone"],
+    "expected_calculation": true,
+    "category": "math"
+  },
+  {
+    "id": "web_001",
+    "question": "What is Apple's current stock price today?",
+    "expected_route": "web_search",
+    "required_keywords": ["AAPL", "$", "stock"],
+    "category": "web_realtime"
+  },
+  {
+    "id": "web_002",
+    "question": "What did Apple announce at its most recent earnings call?",
+    "expected_route": "web_search",
+    "required_keywords": ["earnings", "quarter", "revenue"],
+    "category": "web_realtime"
+  },
+  {
+    "id": "clarity_001",
+    "question": "Tell me about Apple",
+    "expected_route": "clarify",
+    "required_keywords": [],
+    "category": "clarification"
+  }
+]

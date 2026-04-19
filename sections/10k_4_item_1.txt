@@ -1,0 +1,124 @@
+item 1.    business
+company background
+the company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related services. the company’s fiscal year is the 52- or 53-week period that ends on the last saturday of september.
+products
+iphone
+iphone
+®
+is the company’s line of smartphones based on its ios operating system. in october and november 2020, the company released iphone 12, iphone 12 mini, iphone 12 pro and iphone 12 pro max, all with 5g technology. in september 2021, the company released iphone 13, iphone 13 mini, iphone 13 pro and iphone 13 pro max.
+mac
+mac
+®
+is the company’s line of personal computers based on its macos
+®
+operating system. in november 2020, the company released new versions of macbook air
+®
+, 13-inch macbook pro
+®
+and mac mini
+®
+, and in may 2021, the company released a redesigned imac
+®
+, all powered by the apple m1 chip. in october 2021, the company released a redesigned macbook pro, available in 14- and 16-inch models and powered by the apple m1 pro or m1 max chip.
+ipad
+ipad
+®
+is the company’s line of multipurpose tablets based on its ipados
+®
+operating system. in october 2020, the company released a new ipad air
+®
+, and in april 2021, the company released a new ipad pro
+®
+powered by the apple m1 chip. in september 2021, the company released an updated ipad and a new ipad mini
+®
+.
+wearables, home and accessories
+wearables, home and accessories includes airpods
+®
+, apple tv
+®
+, apple watch
+®
+, beats
+®
+products, homepod
+®
+, ipod touch
+®
+and accessories. airpods are the company’s wireless headphones that interact with siri
+®
+. in december 2020, the company released airpods max™, new over-ear wireless headphones, and in october 2021, the company released the third generation of airpods. apple watch is the company’s line of smart watches based on its watchos
+®
+operating system. in september 2021, the company announced apple watch series 7, which was available starting in october 2021.
+apple inc. | 2021 form 10-k | 1
+services
+advertising
+the company’s advertising services include various third-party licensing arrangements and the company’s own advertising platforms.
+applecare
+the company offers a portfolio of fee-based service and support products under the applecare
+®
+brand. the offerings provide priority access to apple technical support, access to the global apple authorized service network for repair and replacement services, and in many cases additional coverage for instances of accidental damage and/or theft and loss, depending on the country and type of product.
+cloud services
+the company’s cloud services store and keep customers’ content up-to-date and available across multiple apple devices and windows personal computers.
+digital content
+the company operates various platforms, including the app store
+®
+,
+that allow customers to discover and download applications and digital content, such as books, music, video, games and podcasts.
+the company also offers digital content through subscription-based services, including apple arcade
+®
+, a game subscription service; apple music
+®
+, which offers users a curated listening experience with on-demand radio stations; apple news+
+®
+, a subscription news and magazine service; and apple tv+
+sm
+, which offers exclusive original content. during 2021, the company released apple fitness+
+sm
+, a personalized fitness service.
+payment services
+the company offers payment services, including apple card
+®
+, a co-branded credit card, and apple pay
+®
+, a cashless payment service.
+markets and distribution
+the company’s customers are primarily in the consumer, small and mid-sized business, education, enterprise and government markets. the company sells its products and resells third-party products in most of its major markets directly to consumers, small and mid-sized businesses, and education, enterprise and government customers through its retail and online stores and its direct sales force. the company also employs a variety of indirect distribution channels, such as third-party cellular network carriers, wholesalers, retailers and resellers. during 2021, the company’s net sales through its direct and indirect distribution channels accounted for 36% and 64%, respectively, of total net sales.
+competition
+the markets for the company’s products and services are highly competitive, and are characterized by aggressive price competition and resulting downward pressure on gross margins, frequent introduction of new products and services, short product life cycles, evolving industry standards, continual improvement in product price and performance characteristics, rapid adoption of technological advancements by competitors, and price sensitivity on the part of consumers and businesses. many of the company’s competitors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the company’s products and infringing on its intellectual property.
+the company’s ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace. the company designs and develops nearly the entire solution for its products, including the hardware, operating system, numerous software applications and related services. principal competitive factors important to the company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation.
+apple inc. | 2021 form 10-k | 2
+the company is focused on expanding its market opportunities related to smartphones, personal computers, tablets, wearables and accessories, and services. the company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software, and service offerings with large customer bases. in addition, some of the company’s competitors have broader product lines, lower-priced products and a larger installed base of active devices. competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. certain competitors have the resources, experience or cost structures to provide products at little or no profit or even at a loss. the company’s services compete with business models that provide content to users for free and use illegitimate means to obtain third-party digital content and applications. the company faces significant competition as competitors imitate the company’s product features and applications within their products, or collaborate to offer integrated solutions that are more competitive than those they currently offer.
+supply of components
+although most components essential to the company’s business are generally available from multiple sources, certain components are currently obtained from single or limited sources. the company also competes for various components with other participants in the markets for smartphones, personal computers, tablets, wearables and accessories. therefore, many components used by the company, including those that are available from multiple sources, are at times subject to industry-wide shortage and significant commodity pricing fluctuations.
+the company uses some custom components that are not commonly used by its competitors, and new products introduced by the company often utilize custom components available from only one source. when a component or product uses new technologies, initial capacity constraints may exist until the suppliers’ yields have matured or their manufacturing capacities have increased. the continued availability of these components at acceptable prices, or at all, may be affected if suppliers decide to concentrate on the production of common components instead of components customized to meet the company’s requirements.
+the company has entered into agreements for the supply of many components; however, there can be no guarantee that the company will be able to extend or renew these agreements on similar terms, or at all.
+substantially all of the company’s hardware products are manufactured by outsourcing partners that are located primarily in asia, with some mac computers manufactured in the u.s. and ireland.
+research and development
+because the industries in which the company competes are characterized by rapid technological advances, the company’s ability to compete successfully depends heavily upon its ability to ensure a continual and timely flow of competitive products, services and technologies to the marketplace. the company continues to develop new technologies to enhance existing products and services, and to expand the range of its offerings through research and development (“r&d”), licensing of intellectual property and acquisition of third-party businesses and technology.
+intellectual property
+the company currently holds a broad collection of intellectual property rights relating to certain aspects of its hardware devices, accessories, software and services. this includes patents, copyrights, trademarks, service marks, trade dress and other forms of intellectual property rights in the u.s. and various foreign countries. although the company believes the ownership of such intellectual property rights is an important factor in its business and that its success does depend in part on such ownership, the company relies primarily on the innovative skills, technical competence and marketing abilities of its personnel.
+the company regularly files patent applications to protect innovations arising from its research, development and design, and is currently pursuing thousands of patent applications around the world. over time, the company has accumulated a large portfolio of issued patents, including utility patents, design patents and others. the company also holds copyrights relating to certain aspects of its products and services. no single intellectual property right is solely responsible for protecting the company’s products. the company believes the duration of its intellectual property rights is adequate relative to the expected lives of its products.
+in addition to company-owned intellectual property, many of the company’s products and services are designed to include intellectual property owned by third parties. it may be necessary in the future to seek or renew licenses relating to various aspects of the company’s products, processes and services. while the company has generally been able to obtain such licenses on commercially reasonable terms in the past, there is no guarantee that such licenses could be obtained in the future on reasonable terms or at all.
+apple inc. | 2021 form 10-k | 3
+business seasonality and product introductions
+the company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand. additionally, new product and service introductions can significantly impact net sales, cost of sales and operating expenses. the timing of product introductions can also impact the company’s net sales to its indirect distribution channels as these channels are filled with new inventory following a product launch, and channel inventory of an older product often declines as the launch of a newer product approaches. net sales can also be affected when consumers and distributors anticipate a product introduction.
+human capital
+the company believes it has a talented, motivated, and dedicated team, and is committed to supporting the development of all of its team members and to continuously building on its strong culture. as of september 25, 2021, the company had approximately 154,000 full-time equivalent employees.
+workplace practices and policies
+the company is committed to providing a workplace free of harassment or discrimination based on race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, caste or other legally protected characteristic. the company is an equal opportunity employer committed to inclusion and diversity.
+compensation and benefits
+the company believes that compensation should not only be competitive; it should be equitable and should enable employees to share in the company’s success as shareholders of the company. the company recognizes its people are most likely to thrive when they have the resources to meet their needs and the time and support to succeed in their professional and personal lives. in support of this, the company offers a wide variety of benefits to employees around the world.
+growth and development
+the company invests in tools and resources that support employees’ individual growth and development. the company also provides classes and seminars to foster understanding and critical thinking about the company’s culture, organization and values.
+inclusion and diversity
+the company is committed to hiring inclusively, providing training and development opportunities, fostering an inclusive culture, and ensuring equitable pay for employees, and is continuing to focus on increasing diverse representation at every level of the company.
+the company has initiatives in place to implement its commitment to increase diverse representation, including creating diverse interview panels and candidate slates, focusing on robust diversity recruiting efforts, and expanding diversity outreach efforts through organizations that serve and engage talent from underrepresented communities. the company also offers team members access to ongoing inclusion and diversity education, and support throughout their career journey and helps them find community and connection through employee groups that create spaces for belonging, learning, and growing inclusivity, diversity and equity efforts.
+engagement
+the company believes that open and honest communication among team members, managers and leadership fosters an open, collaborative work environment where everyone can participate, develop and thrive. team members are encouraged to come to their managers with questions, feedback or concerns, and the company regularly conducts surveys that gauge employee sentiment in areas like career development, manager performance and inclusivity.
+health and safety
+the company is committed to protecting its employees everywhere it operates. the company identifies potential risks associated with workplace activities in order to develop measures to mitigate possible hazards. the company supports employees with general safety training and puts specific programs in place for those working in potentially high-hazard environments, including chemical management, laser safety, equipment and machinery safety, hazardous materials management and electrical safety. the company has taken additional measures during the covid-19 pandemic, including providing information resources, testing, face masks and personal protective equipment, and case support. the company also offers special sick leave for employees with possible covid-19 symptoms, as well as comprehensive health coverage.
+apple inc. | 2021 form 10-k | 4
+available information
+the company’s annual reports on form 10-k, quarterly reports on form 10-q, current reports on form 8-k, and amendments to reports filed pursuant to sections 13(a) and 15(d) of the securities exchange act of 1934, as amended (the “exchange act”), are filed with the u.s. securities and exchange commission (the “sec”). such reports and other information filed by the company with the sec are available free of charge at investor.apple.com/investor-relations/sec-filings/default.aspx when such reports are available on the sec’s website. the company periodically provides other information for investors on its corporate website, www.apple.com, and its investor relations website, investor.apple.com. this includes press releases and other information about financial performance, information on environmental, social and corporate governance and details related to the company’s annual meeting of shareholders. the information contained on the websites referenced in this form 10-k is not incorporated by reference into this filing. further, the company’s references to website urls are intended to be inactive textual references only.
+apple inc. | 2021 form 10-k | 5
